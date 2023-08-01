@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prjFunShareMVC", "prjFunShareMVC\prjFunShareMVC.csproj", "{23473D3C-617F-487D-AAAD-3950F5B75EE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23473D3C-617F-487D-AAAD-3950F5B75EE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23473D3C-617F-487D-AAAD-3950F5B75EE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23473D3C-617F-487D-AAAD-3950F5B75EE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23473D3C-617F-487D-AAAD-3950F5B75EE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48903FA6-9040-4EDD-85FD-1031DE5E8431}
+	EndGlobalSection
+EndGlobal

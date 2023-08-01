@@ -1,0 +1,11 @@
+﻿.card-img-top.transform {
+    transition: transform .2s;
+}
+
+    .card-img-top.transform:hover {
+        transform: scale(1.05);
+    }
+
+span.category {
+    font-size: 18px;
+}
